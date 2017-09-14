@@ -17,7 +17,7 @@ public class Main {
             call.Task();
         }
         catch(InputMismatchException e){
-            System.out.println("Error!!!");
+            System.out.println("Error!!");
         }
         catch(Exception e){
             System.out.println(e.getMessage());
