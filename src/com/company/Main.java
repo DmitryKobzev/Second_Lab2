@@ -1,9 +1,7 @@
 package com.company;
-import java.io.*;
 import java.util.Scanner;
 import java.util.InputMismatchException;
-import java.io.IOException;
-import java.text.*;
+
 
 public class Main {
     public static void main(String[] args) {
